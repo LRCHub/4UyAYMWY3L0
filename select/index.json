@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "808",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-13T03:34:16.340082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "808 Express",
+      "artist": "Company B",
+      "has_synced": false,
+      "path": "select/01_808_Express_Company_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Hate The 808",
+      "artist": "Bassnectar feat. Lafa Taylor",
+      "has_synced": true,
+      "path": "select/02_Don't_Hate_The_808_Bassnectar_feat._Lafa_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Hate The 808 (ft. Lafa Taylor)",
+      "artist": "Bassnectar",
+      "has_synced": true,
+      "path": "select/03_Don't_Hate_The_808_(ft._Lafa_Taylor)_Bassnectar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The 808 Track",
+      "artist": "Bassnectar feat. Mighty High Coup",
+      "has_synced": false,
+      "path": "select/04_The_808_Track_Bassnectar_feat._Mighty_High_Coup.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disappointed (808 mix)",
+      "artist": "Electronic",
+      "has_synced": false,
+      "path": "select/05_Disappointed_(808_mix)_Electronic.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ARP (808 Edit)",
+      "artist": "Apoptygma Berzerk",
+      "has_synced": false,
+      "path": "select/06_ARP_(808_Edit)_Apoptygma_Berzerk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Azura (An Ultramarine Mix By 808 State)",
+      "artist": "808 State",
+      "has_synced": false,
+      "path": "select/07_Azura_(An_Ultramarine_Mix_By_808_State)_808_State.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "808",
+      "artist": "Blaque",
+      "has_synced": false,
+      "path": "select/08_808_Blaque.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "King Of Comedy - 808 State Remix",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/09_King_Of_Comedy_-_808_State_Remix_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "King of Comedy (808 State Remix)",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/10_King_of_Comedy_(808_State_Remix)_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "808 Beats",
+      "artist": "The Unknown DJ",
+      "has_synced": false,
+      "path": "select/11_808_Beats_The_Unknown_DJ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "808",
+      "artist": "Yesterday",
+      "has_synced": true,
+      "path": "select/12_808_Yesterday.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "808",
+      "artist": "Blaque",
+      "has_synced": true,
+      "path": "select/13_808_Blaque.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "808",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_808_Suchmos.txt"
+    }
+  ]
+}
